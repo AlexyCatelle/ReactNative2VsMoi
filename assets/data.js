@@ -15,7 +15,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐⭐',
     email: 'lando@dnf.com',
     phone: '+33 6 00 00 00 02',
-    avatar: 'https://randomuser.me/api/portraits/men/102.jpg'
+    avatar: 'https://pbs.twimg.com/profile_images/1674935955608993793/jCohGCoc_400x400.jpg'
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐⭐',
     email: 'lewis@toto.com',
     phone: '+33 6 00 00 00 03',
-    avatar: 'https://randomuser.me/api/portraits/men/103.jpg'
+    avatar: 'https://ih1.redbubble.net/image.5500745463.1695/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg'
   },
   {
     id: 4,
@@ -42,7 +42,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐⭐',
     email: 'george@diva.com',
     phone: '+33 6 00 00 00 05',
-    avatar: 'https://randomuser.me/api/portraits/men/105.jpg'
+    avatar: 'https://i.pinimg.com/736x/1b/81/3e/1b813ecf85f69d717f5e768fcd93412b.jpg'
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'kimi@kaze.com',
     phone: '+33 6 00 00 00 06',
-    avatar: 'https://randomuser.me/api/portraits/men/106.jpg'
+    avatar: 'https://cdn-8.motorsport.com/images/amp/0rGbKK52/s6/andrea-kimi-antonelli-prema-ra.jpg'
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'pierre@monza.com',
     phone: '+33 6 00 00 00 07',
-    avatar: 'https://randomuser.me/api/portraits/men/107.jpg'
+    avatar: 'https://i.pinimg.com/736x/76/fe/c3/76fec38709418243096efe95a11d39db.jpg'
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'jack@qui.com',
     phone: '+33 6 00 00 00 08',
-    avatar: 'https://randomuser.me/api/portraits/men/108.jpg'
+    avatar: 'https://res.cloudinary.com/prod-f2f3/ar_16:9,c_fill,dpr_1.0,f_auto,g_auto,h_563,w_1000/v1/f2/global/articles/2022/11_November/GettyImages-1418715377'
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'oliver@banrace.com',
     phone: '+33 6 00 00 00 09',
-    avatar: 'https://randomuser.me/api/portraits/men/109.jpg'
+    avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIiti_umUbMIln3qL1sgDGg6NEIXYb4HVxEQ&s'
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'esteban@pitstop.com',
     phone: '+33 6 00 00 00 10',
-    avatar: 'https://randomuser.me/api/portraits/men/110.jpg'
+    avatar: 'https://i.pinimg.com/736x/b0/18/38/b018388ace76c2b3b5abbe535f77fcc1.jpg'
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'alex@example.com',
     phone: '+33 6 00 00 00 11',
-    avatar: 'https://randomuser.me/api/portraits/men/111.jpg'
+    avatar: 'https://i.pinimg.com/736x/5b/90/ed/5b90ed3bd9f1ef8f1e1599bb12b99961.jpg'
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'carlos@ferrariforever.com',
     phone: '+33 6 00 00 00 12',
-    avatar: 'https://randomuser.me/api/portraits/men/112.jpg'
+    avatar: 'https://i.pinimg.com/564x/87/8d/c7/878dc765bca9de4f2a03cbd78eca7809.jpg'
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'yuki@parkour.com',
     phone: '+33 6 00 00 00 13',
-    avatar: 'https://randomuser.me/api/portraits/men/113.jpg'
+    avatar: 'https://i.pinimg.com/736x/82/e3/e0/82e3e07d30c550ed9ea80181efb05f97.jpg'
   },
   {
     id: 14,
