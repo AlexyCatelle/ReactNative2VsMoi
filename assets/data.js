@@ -123,7 +123,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'liam@p20.com',
     phone: '+33 6 00 00 00 14',
-    avatar: 'https://randomuser.me/api/portraits/men/114.jpg'
+    avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvLyUtTOnR9d66IZq05-e5TRFXaeuPD3xBw&s'
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'nico@p3baby.com',
     phone: '+33 6 00 00 00 15',
-    avatar: 'https://randomuser.me/api/portraits/men/115.jpg'
+    avatar: 'https://i.imgflip.com/7k0ed4.jpg'
   },
   {
     id: 16,
@@ -141,6 +141,6 @@ export default () =>[
     rating: '⭐⭐⭐⭐',
     email: 'gabriel@example.com',
     phone: '+33 6 00 00 00 16',
-    avatar: 'https://randomuser.me/api/portraits/men/116.jpg'
+    avatar: 'https://i.pinimg.com/736x/55/f2/a7/55f2a7385e24e6197a876a7e678817be.jpg'
   }
 ];
